@@ -69,7 +69,7 @@
 </p>
 
 ---
-## Operational Systems
+## Operating Systems
 <p align="left">
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
