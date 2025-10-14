@@ -1,9 +1,9 @@
-<!-- Optional: Add a cool banner or header -->
 <h1 align="center">Hi there, I'm George!</h1>
 
 ## About Me
-- 🎓 **Attending ECE-NTUA**  
-  Currently working on my thesis: *"Dynamic Resource Management Algorithm for Minimizing Interference in Kubernetes"* in [netmode lab](https://www.netmode.ntua.gr/).
+- 🎓 **ECE-NTUA Graduate**  
+  Completed my thesis: *"Interference-Aware Resource Management and Dynamic Placement with Machine Learning Techniques in Kubernetes"* in [NETMODE Lab](https://www.netmode.ntua.gr/).  
+  📂 [Thesis Repository](https://github.com/georgakopoulosgeo/Interference_Thesis_NTUA)
 - 🌐 **Interests**  
   Computer Networks, Network Protocols and Network Security, Programming, SDNs.
 - 🚀 **Enthusiast**  
@@ -17,7 +17,6 @@
 ---
 ## 🧠 Technologies
 
-### Languages
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -41,9 +40,6 @@
   </a>
 </p>
 
----
-
-### Operating Systems
 <p align="left">
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
@@ -55,9 +51,6 @@
   </a>
 </p>
 
----
-
-### Cloud & DevOps
 <p align="left">
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -81,9 +74,6 @@
   </a>
 </p>
 
----
-
-### Networking & Tools
 <p align="left">
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
