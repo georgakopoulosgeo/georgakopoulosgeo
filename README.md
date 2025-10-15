@@ -11,10 +11,8 @@
 
 ---
 
-<!-- You can adjust the parameters (hide, langs_count, layout, exclude_repo, etc.) as you wish -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgakopoulosgeo&hide=jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/georgakopoulosgeo/github-readme-stats)
 
----
 ## 🧠 Technologies
 
 <p align="left">
