@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm George!</h1>
+<h1 align="center">Hi there, I'm Giorgos!</h1>
 
 ## About Me
 - 🎓 **ECE-NTUA Graduate**  
